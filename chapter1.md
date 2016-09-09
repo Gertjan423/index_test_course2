@@ -2,7 +2,7 @@
 title        : Template Chapter 2
 description  : This is a template chapter. 
 
---- type:NormalExercise lang:python xp: skills: key:db8224de4d
+--- type:NormalExercise lang:python xp: skills: key:0e25bd099d
 ## Template exercise 
 Thisis a template exercise.
 
