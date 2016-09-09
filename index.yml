@@ -14,6 +14,21 @@ chapters:
       - type: NormalExercise
         title: Title
         content: Content
+      - type: NormalExercise
+        title: Title
+        content: Content
+      - type: NormalExercise
+        title: Title
+        content: Content
   - chapter_title: Title
     chapter_description: Description
-    exercises: []
+    exercises:
+      - type: NormalExercise
+        title: Title
+        content: Content
+      - type: NormalExercise
+        title: Title
+        content: Content
+      - type: NormalExercise
+        title: Title
+        content: Content
