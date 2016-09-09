@@ -2,7 +2,7 @@ course_title: Template Python Course
 course_description: This is a template course.
 programming_language: python
 chapters:
-  - chapter_title: Template Chapter
+  - chapter_title: Template Chapter 2
     chapter_description: This is a template chapter.
     exercises:
       - type: NormalExercise
