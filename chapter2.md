@@ -2,7 +2,7 @@
 title        : Title
 description  : Description 
 
---- type:NormalExercise lang:python xp: skills: key:8e831c3783
+--- type:NormalExercise lang:python xp: skills: key:b54f0e9ea2
 ## Title 
 Content
 
@@ -18,7 +18,7 @@ Content
 
 *** =sct{python}
 
---- type:NormalExercise lang:python xp: skills: key:ce9bb183c6
+--- type:NormalExercise lang:python xp: skills: key:66d43c1b34
 ## Title 
 Content
 
@@ -34,7 +34,7 @@ Content
 
 *** =sct{python}
 
---- type:NormalExercise lang:python xp: skills: key:6b3301cc16
+--- type:NormalExercise lang:python xp: skills: key:bcd3bf43e4
 ## Title 
 Content
 
