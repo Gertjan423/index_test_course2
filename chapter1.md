@@ -2,7 +2,7 @@
 title        : Template Chapter 2
 description  : This is a template chapter. 
 
---- type:NormalExercise lang:python xp: skills: key:a8dd694861
+--- type:NormalExercise lang:python xp: skills: key:00b807cf4c
 ## Template exercise 
 Thisis a template exercise.
 
@@ -18,7 +18,7 @@ Thisis a template exercise.
 
 *** =sct{python}
 
---- type:NormalExercise lang:python xp: skills: key:e2ae5d383c
+--- type:NormalExercise lang:python xp: skills: key:15afdb7d1b
 ## Title 
 Content
 
@@ -34,7 +34,7 @@ Content
 
 *** =sct{python}
 
---- type:NormalExercise lang:python xp: skills: key:e6b3629a30
+--- type:NormalExercise lang:python xp: skills: key:5802f4b529
 ## Title 
 Content
 
@@ -50,7 +50,7 @@ Content
 
 *** =sct{python}
 
---- type:NormalExercise lang:python xp: skills: key:9dbce07c2b
+--- type:NormalExercise lang:python xp: skills: key:9d8b360808
 ## Title 
 Content
 
@@ -66,7 +66,7 @@ Content
 
 *** =sct{python}
 
---- type:NormalExercise lang:python xp: skills: key:c0116a8a08
+--- type:NormalExercise lang:python xp: skills: key:702f9ecbee
 ## Title 
 Content
 
