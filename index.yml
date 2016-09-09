@@ -8,3 +8,12 @@ chapters:
       - type: NormalExercise
         title: Template exercise
         content: Thisis a template exercise.
+      - type: NormalExercise
+        title: Title
+        content: Content
+      - type: NormalExercise
+        title: Title
+        content: Content
+  - chapter_title: Title
+    chapter_description: Description
+    exercises: []
